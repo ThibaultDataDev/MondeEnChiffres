@@ -16,7 +16,9 @@ L’exécution de la méthode est simple:
 
     Tous les fichiers nécessaires se trouvent dans le dossier "Monde"
 
-    Chaque fichier est nommé avec un chiffre suivi de sa fonction, il suffit de suivre l'ordre des chiffres, de 1 à 5 pour réaliser tout le processus.
+    Chaque fichier est nommé avec un chiffre suivi de sa fonction
+    
+    Il suffit de suivre l'ordre des chiffres, de 1 à 5 pour réaliser tout le processus.
 
     Votre table et vos données sont propres et organisées
 
