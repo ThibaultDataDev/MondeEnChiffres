@@ -21,7 +21,7 @@ Installation
 
 L’exécution de la méthode est simple:
 
-    - Tous les fichiers nécessaires se trouvent dans le dossier "Monde"
+    - Tous les fichiers nécessaires se trouvent directement dans le répertoire github
 
     - Chaque fichier est nommé avec un chiffre suivi de sa fonction
     
