@@ -44,11 +44,11 @@ L’exécution de la méthode est simple:
 
 Pour utiliser les fonctions et procédures, il suffit d'executer les commandes suivantes:
 
-### Pour sélectionner un pays:
-```SELECT * FROM getcountry('<pays>')```
-    
 ### Pour insérer un nouveau pays:
 ```CALL insertcountry('<pays>')```
+
+### Pour sélectionner un pays:
+```SELECT * FROM getcountry('<pays>')```
     
 ### Pour trier les pays selon leur densité (vous pouvez choisir les valeurs vous-même):
 ```SELECT * FROM  getdensity(<valeur très forte densité>, <valeur densité forte>, <valeur densité normale>)```
