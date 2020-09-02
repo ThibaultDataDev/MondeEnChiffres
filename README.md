@@ -38,3 +38,17 @@ L’exécution de la méthode est simple:
     - Votre table et vos données sont propres et organisées
 
 
+------------------------
+
+# Utilisation
+
+Pour utiliser les fonctions et procédures, il suffit d'executer les commandes suivantes:
+
+### Pour sélectionner un pays:
+SELECT * FROM getcountry('<pays>')
+    
+### Pour insérer un nouveau pays:
+CALL insertcountry('<pays>')
+    
+### Pour trier le spays selon leur densité:
+SELECT * FROM  getdensity(<valeur très forte densité>, <valeur densité forte>, <valeur densité normale>)
