@@ -258,4 +258,5 @@ drop column net_change,
 drop column land_area,
 drop column migrants,
 drop column fert_rate,
-drop column world_share;
+drop column world_share,
+drop column urban_pop;
