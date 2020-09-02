@@ -50,5 +50,5 @@ Pour utiliser les fonctions et procédures, il suffit d'executer les commandes s
 ### Pour insérer un nouveau pays:
 ```CALL insertcountry('<pays>')```
     
-### Pour trier le spays selon leur densité:
+### Pour trier les pays selon leur densité (vous pouvez choisir les valeurs vous-même):
 ```SELECT * FROM  getdensity(<valeur très forte densité>, <valeur densité forte>, <valeur densité normale>)```
