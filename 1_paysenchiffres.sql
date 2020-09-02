@@ -9,7 +9,8 @@ CREATE TABLE IF NOT EXISTS "country" (
 "fert_rate" TEXT NULL,
 "med_age" TEXT NULL,
 "urban_pop" TEXT NULL,
-"world_share" TEXT NULL
+"world_share" TEXT NULL,
+"timestamp_insertion" TIMESTAMP NULL
 );
 
 
