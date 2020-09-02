@@ -33,7 +33,7 @@ L’exécution de la méthode est simple:
 
     - Chaque fichier est nommé avec un chiffre suivi de sa fonction
     
-    - Il suffit de suivre l'ordre des chiffres, de 1 à 5 pour réaliser tout le processus.
+    - Il suffit d'éxécuter chaque fichier en suivant l'ordre des chiffres, de 1 à 5 pour réaliser tout le processus.
 
     - Votre table et vos données sont propres et organisées
 
